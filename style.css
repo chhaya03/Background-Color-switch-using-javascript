@@ -1,0 +1,23 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+}
+
+#red {
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(167, 10, 10);
+    color: white;
+    font-size: larger;
+}
+
+#pink {
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(128, 34, 87);
+    font-size: larger;
+    color: white;
+}
